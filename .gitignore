@@ -1,0 +1,22 @@
+# Cursor / IDE
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Dependencies (if you add npm later)
+node_modules/
+
+# Logs and temp
+*.log
+*.tmp
+.env
+.env.local
